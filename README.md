@@ -1,4 +1,4 @@
-# DESIGN-OF-RC-PHASE-SHIFT-AND-WIEN-BRIDGE-OSCILLATOR-USING-OP-AMP-741
+99# DESIGN-OF-RC-PHASE-SHIFT-AND-WIEN-BRIDGE-OSCILLATOR-USING-OP-AMP-741
 # AIM:
      To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
@@ -47,18 +47,25 @@ Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C 
 # RC  PHASE SHIFT OSCILLATOR: 
 
 # DESIGN
+<img width="1536" height="925" alt="image" src="https://github.com/user-attachments/assets/cac6d547-036f-42d0-8f02-6b1ff75bc7a2" />
 
 # TABULATION
+<img width="1327" height="769" alt="image" src="https://github.com/user-attachments/assets/41b79f62-d4d9-4c62-9b9d-d9c6cb3da7f0" />
 
 # GRAPH
+<img width="1600" height="914" alt="image" src="https://github.com/user-attachments/assets/9a0a1e78-99d4-40c2-87c3-7cc35c8fe280" />
 
 # WIEN BRIDGE OSCILLATOR
 
 
 # DESIGN
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/d21a8547-2e90-42ed-96ae-480350d40579" />
 
 # TABULATION
+<img width="1287" height="1281" alt="image" src="https://github.com/user-attachments/assets/11e8a686-2d1d-47b8-85e1-feb9bdad9c7c" />
 
 # GRAPH
+<img width="1600" height="1205" alt="image" src="https://github.com/user-attachments/assets/71d3a90f-5f5a-4658-b80f-6f953cdae1b9" />
 
 # RESULT
+<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/1c568611-4c05-49e5-a1cb-298353077cc5" />
