@@ -59,10 +59,10 @@ Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C 
 
 
 # DESIGN
-<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/d21a8547-2e90-42ed-96ae-480350d40579" />
+<img width="1287" height="1281" alt="image" src="https://github.com/user-attachments/assets/11e8a686-2d1d-47b8-85e1-feb9bdad9c7c" />
 
 # TABULATION
-<img width="1287" height="1281" alt="image" src="https://github.com/user-attachments/assets/11e8a686-2d1d-47b8-85e1-feb9bdad9c7c" />
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/d21a8547-2e90-42ed-96ae-480350d40579" />
 
 # GRAPH
 <img width="1600" height="1205" alt="image" src="https://github.com/user-attachments/assets/71d3a90f-5f5a-4658-b80f-6f953cdae1b9" />
